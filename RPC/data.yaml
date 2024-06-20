@@ -1,0 +1,6 @@
+train: images/train 
+val: images/valid 
+test: images/test 
+support: supports/ 
+ 
+nc: 201 

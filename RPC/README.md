@@ -10,11 +10,6 @@ for the One Shot Object Detection challenge:
 
 ## Installation
 
-#### Install library python
-```
-pip install -r requirements.txt
-```
-
 #### Kaggle Authenticate
 * Go to your Kaggle account settings and create a new API token.
 * This will download a kaggle.json file. Move this file to ~/.kaggle/.

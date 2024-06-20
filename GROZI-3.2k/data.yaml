@@ -1,0 +1,8 @@
+train: images/train 
+val: images/valid 
+test: images/test 
+dairy: images/dairy 
+paste: images/paste 
+support: supports 
+ 
+nc: 1488

@@ -12,10 +12,6 @@ for the One Shot Object Detection challenge:
 
 ## Installation
 
-#### Install library python
-```
-pip install -r requirement.txt
-```
 #### Images/Annotations Processing 
 Open and run the [Processing.ipynb](Processing.ipynb)
 

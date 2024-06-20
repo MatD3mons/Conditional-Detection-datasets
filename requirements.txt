@@ -1,9 +1,5 @@
 numpy
-json
-PIL 
+Pillow 
 tqdm
 kaggle
-sys
-os
 pandas
-glob
