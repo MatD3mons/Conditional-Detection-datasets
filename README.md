@@ -4,6 +4,7 @@ List of Conditional Detection datasets, transform for YOLOv8 annotation format:
 
 * [The Retail Product Checkout (RPC) dataset](/RPC)
 * [The Grozi-3.2k dataset](/GROZI-3.2k)
+* [The Pascal VOC dataset](/PascalVOC/)
 
 #### Install python dependance:
 ```
