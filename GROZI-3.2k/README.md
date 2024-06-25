@@ -13,7 +13,7 @@ for the One Shot Object Detection challenge:
 ## Installation
 
 #### Images/Annotations Processing 
-Open and run the [Processing.ipynb](Processing.ipynb)
+Open and run the [Processing.ipynb](Processing_GROZI.ipynb)
 
 ## Reference
 
