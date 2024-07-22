@@ -29,9 +29,20 @@ Open and run the [Processing.ipynb](Processing.ipynb)
 
 * http://host.robots.ox.ac.uk/pascal/VOC/ 
 
-#### Citations for the RPC authors
+#### Citations for the PascalVOC authors
 
 ```
+@Article{Everingham10,
+   author = "Everingham, M. and Van~Gool, L. and Williams, C. K. I. and Winn, J. and Zisserman, A.",
+   title = "The Pascal Visual Object Classes (VOC) Challenge",
+   journal = "International Journal of Computer Vision",
+   volume = "88",
+   year = "2010",
+   number = "2",
+   month = jun,
+   pages = "303--338",
+} 
+
 @article{fu_oscd_2021,
 	title = {{OSCD}: {A} one-shot conditional object detection framework},
 	volume = {425},
