@@ -170,3 +170,4 @@ cython_debug/
 *.csv
 *.csv#
 *.ods
+*.json

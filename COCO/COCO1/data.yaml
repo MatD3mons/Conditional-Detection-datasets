@@ -1,0 +1,5 @@
+train: images/train 
+val: images/valid 
+support: supports 
+ 
+nc: 80

@@ -1,0 +1,7 @@
+train: COCO1/images/train 
+val: COCO1/images/valid 
+test: COCO1/images/test 
+support: COCO1/supports/ 
+ 
+ 
+nc: 80
