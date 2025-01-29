@@ -1,6 +1,0 @@
-train: ../images/train
-val: ../images/val
-test: ../images/test
-support: ../supports 
- 
-nc: 109
