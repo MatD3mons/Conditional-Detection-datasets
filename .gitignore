@@ -171,3 +171,9 @@ cython_debug/
 *.csv#
 *.ods
 *.json
+
+Andros/
+Palette/
+
+Processing_Andros_palette.ipynb
+Processing_Andros.ipynb
